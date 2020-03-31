@@ -114,6 +114,8 @@ For more details check out this resource: https://www.atlassian.com/git/tutorial
 
 `App.test.txt`: We will talk more about unit testing later. By default the baseline application includes a testing framework I use called Jest.
 
+In terms of the other files, we will get into the details of them when we need to. This is all you should really be concerned with at this point.
+
 4: Let's run the default application we get from the `create-react-app` command we ran above. 
 
 This is done by using the command `npm start`.
