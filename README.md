@@ -1,3 +1,5 @@
+If you're having a difficult time viewing the VS code then please double click.
+
 # React + Redux Tutorials
 
 *This is a living document and will be updated as changes are deemed necessary. This document is not to be considered final.
