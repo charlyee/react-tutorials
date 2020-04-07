@@ -1,0 +1,30 @@
+/**
+* At this point we know that typescript is the language backing our react project, this is a separate configuration file that is focused specifically
+* on typescript that this react project uses. Similar to the other configuration file-- I strongly recommend that you do not change 
+* this file much from the defaults unless you know exactly what you're doing and what your goals are.
+*/
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react"
+  },
+  "include": [
+    "src"
+  ]
+}
