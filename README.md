@@ -14,6 +14,8 @@ This is my personal recommendation for an IDE to use, and that I have used it ex
 
 ### Suggested Extensions (for Visual Studio Code):
 
+-Typescript React code snippets
+
 
 ### Auto Format
 
